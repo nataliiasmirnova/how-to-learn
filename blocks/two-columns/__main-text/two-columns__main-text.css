@@ -1,0 +1,12 @@
+.two-columns__main-text {
+    flex-direction: column;
+    width: 80%;
+    min-width: 784px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+}
+
+.two-columns__main-text:last-child {
+    margin: 0 auto;
+}

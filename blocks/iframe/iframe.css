@@ -1,0 +1,13 @@
+.iframe {
+    position: relative;
+    margin: 0 auto;
+    padding: 0 0;
+    width: 516px;
+    height: 316px;
+    border: none;
+    overflow: visible;
+}
+
+.iframe:first-child {
+    margin-right: 20px;
+}
